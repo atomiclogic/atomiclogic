@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1eA6IXeB2y9sQ/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
 </div>
 <h1 align="center">Hi there, I'm Riki Permana 👋</h1>
 <h3 align="center">DevOps Engineer | Systems Architect </h3>
